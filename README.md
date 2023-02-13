@@ -12,5 +12,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-Languages and Tools:
-mySQL powerBI c flask html5 ifttt linux pandas python scikit_learn seaborn
